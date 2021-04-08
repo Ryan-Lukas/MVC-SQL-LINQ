@@ -1,0 +1,9 @@
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\bin\Debug\netstandard2.0\ChessTools.deps.json
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\bin\Debug\netstandard2.0\ChessTools.dll
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\bin\Debug\netstandard2.0\ChessTools.pdb
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.csprojAssemblyReference.cache
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.AssemblyInfoInputs.cache
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.AssemblyInfo.cs
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.dll
+C:\Users\Ryan\Documents\Personal\School\CS5530\hw6\ChessBrowser\ChessTools\obj\Debug\netstandard2.0\ChessTools.pdb
